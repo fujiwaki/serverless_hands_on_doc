@@ -1,0 +1,23 @@
+site_name: Serverless Hands-on
+repo_name: fujiwaki/serverless_hands_on_doc
+repo_url: https://github.com/fujiwaki/serverless_hands_on_doc
+copyright: Copyright &copy; 2024 Yasuhiro Fujiwaki
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+  font:
+    text: Fira Sans
+    code: Fira Code
+plugins:
+  - search
+  - section-index
+  - literate-nav:
+      nav_file: SUMMARY.md
+markdown_extensions:
+  - pymdownx.superfences
+nav:
+  - Home: index.md
+  - Hands-on: contents/
