@@ -1,2 +1,8 @@
 * [開発環境構築](build_dev_env.md)
 * [Serverless概要](serverless.md)
+* [課題](task.md)
+* [Lambda](lambda/)
+* [DynamoDB](dynamodb/)
+* [API Gateway](api_gateway/)
+* [Deploy](deploy/)
+* [Appendix](appendix/)
