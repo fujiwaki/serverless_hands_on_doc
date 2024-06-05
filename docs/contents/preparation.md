@@ -1,16 +1,13 @@
-# 開発環境構築
-
 ## ツールのインストール
 
 以下のものをインストールしておく
 
 - `VSCode`
-    - Extensions
-        - `ms-vscode-remote.remote-containers`
+    - `ms-vscode-remote.remote-containers`(Extension)
 - `Docker`
 - `git`
 
-## 開発環境の構築
+## 開発環境の起動
 
 1. dockerを起動する
 
@@ -21,11 +18,11 @@
     code serverless_hands_on
     ```
 
-3. devcontainerをbuildしcontainer環境で開く
+3. 開発用コンテナで開く
 
     コマンドパレットを開く(Ctrl+Shift+P)
 
-    Dev Containers: Rebuild and Reopen in Containerを選択
+    `Dev Containers: Rebuild and Reopen in Container`を選択
 
 4. ライブラリをインストールする
 

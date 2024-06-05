@@ -1,10 +1,15 @@
-# Serverless Hands-on
+---
+hide:
+  - navigation
+---
 
-ingateの勉強会用のserverless入門Hands-onです。
+# AWS Serverless Hands-on
+
+ingateの社内勉強会用のAWS serverless Hands-on資料です。
 
 ## 対象
 
-serverless未経験
+- serverless開発未経験
 
 ## 使用技術
 
