@@ -1,6 +1,7 @@
-## Serverlessとは
+## Serverless とは
 
 ??? Note
+
     - Concept of Serverless on AWS
     - Managed
     - Layer
@@ -9,6 +10,7 @@
 ## Pros/Cons
 
 ??? Note
+
     - Cost
     - Stateful/Stateless
     - Execution time

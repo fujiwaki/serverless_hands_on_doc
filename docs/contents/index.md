@@ -1,6 +1,6 @@
 ## 本ハンズオンの課題
 
-ChatサービスのAPI
+Chat サービスの API
 
 ## AWS Structure
 

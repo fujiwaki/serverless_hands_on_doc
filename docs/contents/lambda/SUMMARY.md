@@ -1,2 +1,2 @@
-* [Pythonでの実装](python.md)
-* [実践](work.md)
+-   [Python での実装](python.md)
+-   [実践](work.md)

@@ -1,6 +1,6 @@
-## Pythonでの実装方法
+## Python での実装方法
 
-## 使用するLibrary
+## 使用する Library
 
 ### boto3
 
