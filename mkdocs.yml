@@ -7,6 +7,7 @@ nav:
   - Home: index.md
   - Hands-on: contents/
   - Appendix: appendix/
+  - memo: memo.md
 
 theme:
   name: material

@@ -1,6 +1,6 @@
 ## Pattern 1
 
-| thread_id (PK/GSI-SK) | post_id (SK) | category(GSI-PK) |
+| thread_id (PK) | post_id (SK) | category(GSI-PK) |
 | --------------------- | ------------ | ---------------- |
 | #{thread_id}          |              | Thread           |
 | #{thread_id}          | #{post_id}   | Post             |

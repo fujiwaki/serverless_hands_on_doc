@@ -3,20 +3,19 @@ hide:
     - navigation
 ---
 
-# AWS Serverless Hands-on
+# AWS Serverless Hands-on for Beginners
 
-ingate の社内勉強会用の AWS serverless Hands-on 資料です。
+**ingate 社内勉強会: AWS serverless Hands-on for Beginners** の資料です。
 
 ## 対象
 
--   serverless 開発未経験
+-   serverless 開発未経験 or 初心者
 
 ## 使用技術
 
 -   AWS
     -   API Gateway
-    -   Lambdannhi
-    -   Lambda Layer (?)
+    -   Lambda
     -   DynamoDB
     -   CDK
 -   Python
